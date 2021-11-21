@@ -5,7 +5,7 @@
   "description": "Use your own RPC connection on any Solana-based website. Made with <3 by goo.tools & genesysgo.com",
   "update_url": "https://gootools.github.io/rpc-extension/updates.xml",
   "author": "https://goo.tools",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "permissions": ["<all_urls>", "webRequest", "webRequestBlocking", "storage"],
   "background": {
     "scripts": ["build/background.js"],
